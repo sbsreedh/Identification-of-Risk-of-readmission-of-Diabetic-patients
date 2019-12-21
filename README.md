@@ -6,6 +6,10 @@ It was reported that in 2011 more than 3.3 million patients were readmitted in t
 Diabetes is the 7th leading cause of death and affects about 23.6 million people in the US. 1.4 million Americans are diagnosed with diabetes every year. Hospital readmission being a major concern in diabetes care, over 250 million dollars was spent on treatment of readmitted diabetic patients in 2011. Early identification of patients facing a high risk of readmission can enable healthcare providers to conduct additional investigations and possibly prevent future readmissions.
 
 In this project, I build a machine learning classifier model to predict diabetes patients with high risk of readmission. Note that higher sensitivity (recall) is more desirable for hospitals because it is more crucial to correctly identify "high risk" patients who are likely to be readmitted than identifying "low risk" patients.
+The machine algorithms like KNN, Logistic Regression, Decision Trees, Random Forest, Stochastic Gradient Descent Classifier, AdaBoost were used to train the model. Later t the optimised model after tuning the hyper parameters of the models  were validated on the test to obtaoin the best accuracy .
+
+Important features were identified using Random forest and Logistic Algorithm.
+
 
 Please open the Jupyter Notebook file to see the details.
 
